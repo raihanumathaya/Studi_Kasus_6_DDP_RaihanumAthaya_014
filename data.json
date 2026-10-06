@@ -1,0 +1,22 @@
+[
+    {
+        "Nama barang": "Beras",
+        "Jumlah stok": "20",
+        "Harga": "75.000"
+    },
+    {
+        "Nama barang": "Minyak goreng",
+        "Jumlah stok": "10",
+        "Harga": "18.000"
+    },
+    {
+        "Nama barang": "Gula pasir",
+        "Jumlah stok": "25",
+        "Harga": "17.000"
+    },
+    {
+        "Nama barang": "Telor asin",
+        "Jumlah stok": "10",
+        "Harga": "10000"
+    }
+]
