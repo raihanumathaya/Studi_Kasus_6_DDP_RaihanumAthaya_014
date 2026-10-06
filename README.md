@@ -44,19 +44,24 @@ fungsi main() adalah bagian utama yang menjalankan seluruh program. Pertama, mem
 
 <img width="1192" height="1060" alt="image" src="https://github.com/user-attachments/assets/7845d437-0f93-446e-af6a-3d5428500bf0" />
 <br>
+
 ### Menambahkan barang<br>
 
 <img width="1050" height="1372" alt="image" src="https://github.com/user-attachments/assets/b96ce50c-de26-46f6-849f-dbcfcbcbe255" />
 <br>
+
 ### Mengupdate barng<br>
 <img width="1354" height="1396" alt="image" src="https://github.com/user-attachments/assets/485fd065-7795-419e-8655-c8cd8186e73e" />
 <br>
+
 ### Menghapus barang<br>
 <img width="1344" height="1170" alt="image" src="https://github.com/user-attachments/assets/d7f94eb6-1839-4286-b6ba-9f4d8204a332" />
 <br>
+
 ### keluar<br>
 <img width="902" height="308" alt="image" src="https://github.com/user-attachments/assets/5030cd41-1f30-4ff8-8c9a-399fd800ab35" />
 <br>
+
 ### DAta setelah di-run kembali<br>
 <img width="836" height="930" alt="image" src="https://github.com/user-attachments/assets/605279da-b728-4f67-84b5-39470afa95e7" />
 
